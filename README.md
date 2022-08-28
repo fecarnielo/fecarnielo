@@ -1,7 +1,4 @@
 
-
--->
-
 ## Olá! Eu sou a Fernanda Carnielo! Estou estudando para conseguir minha transição de carreira para a área de tecnologia! :computer:
 
 - 🔭 Atualmente estou trabalhando na área da saúde com equipamentos de radiologia
@@ -17,8 +14,7 @@
   <img align="center" alt="Fe-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Fe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Fe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Fe-pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic92/41b7ab74ac953e02298c2338cf780dd3.gif">
-</div>
+ </div>
   
   ##
  
