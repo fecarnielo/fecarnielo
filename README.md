@@ -1,7 +1,7 @@
 
 ## Olá! Eu sou a Fernanda Carnielo! Estou estudando para conseguir minha transição de carreira para a área de tecnologia! :computer:
 
-- 🔭 Atualmente estou trabalhando na área da saúde com equipamentos de radiologia
+- 🔭 Estou em busca da minha primeira oportunidade na área da tecnologia. 
 - 🌱 Estou aprendendo HTML, Javascript e CSS 
 
 <div align="center">
