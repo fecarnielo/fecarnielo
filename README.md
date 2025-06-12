@@ -1,8 +1,5 @@
 
-## Olá! Eu sou a Fernanda Carnielo! Desenvolvedora Front-end! :computer:
-
-- 🔭 Estou em busca da minha primeira oportunidade na área da tecnologia. 
-- 🌱 Tenho conhecimento em JavaScript, CSS, HTML, Java e estou estudando Python.
+## Olá! Eu sou a Fernanda Carnielo! Desenvolvedora FullStack Jr! :computer:
 
 <div align="center">
   <a href="https://github.com/fecarnielo">
